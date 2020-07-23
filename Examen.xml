@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+	<factura>
+		<registro>
+			<Código_de_la_factura>1</Código_de_la_factura>
+			<Ruc_de_la_empresa>1723465116001</Ruc_de_la_empresa>
+			<Cedula>1723465116</Cedula>
+			<Nombre>Jorge</Nombre>
+			<Apellido>Martinez</Apellido>
+			<Año>2020</Año>
+			<Mes>7</Mes>
+			<Día>22</Día>
+			<Telefono>985632478</Telefono>
+			<Direccion>El batan calle ulloa y juan gonzales</Direccion>
+			<Cantidad>6</Cantidad>
+			<Detalle>6 Peluches tipo 1 (Oso peluche polar)</Detalle>
+			<Forma_de_pago>Efectivo</Forma_de_pago>
+			<Total>37.5</Total>
+		</registro>
+	</factura>
