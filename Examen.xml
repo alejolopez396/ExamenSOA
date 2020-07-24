@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <factura>
     <registro>
-        <Código_de_la_factura>SRI3635</Código_de_la_factura>
-        <Ruc_de_la_empresa>172346511</Ruc_de_la_empresa>
-        <Cedula>1723465116</Cedula>
-        <Nombre>Jorge</Nombre>
-        <Apellido>Martinez</Apellido>
-        <Anio>2020</Anio>
-        <Mes>Julio</Mes>
-        <Día>22</Día>
-        <Telefono>0990990981</Telefono>
-        <Direccion>El batan calle ulloa y juan gonzales</Direccion>
-        <Cantidad>6</Cantidad>
-        <Detalle>Peluches tipo Oso peluche polar</Detalle>
-        <Forma_de_pago>Dinero Electrónico</Forma_de_pago>
-        <Total>37.5</Total>
+      <Código_de_la_factura>SRI3635</Código_de_la_factura>
+      <Ruc_de_la_empresa>172346511</Ruc_de_la_empresa>
+      <Cedula>1723465116</Cedula>
+      <Nombre>Jorge</Nombre>
+      <Apellido>Martinez</Apellido>
+      <Anio>2020</Anio>
+      <Mes>Julio</Mes>
+      <Día>22</Día>
+      <Telefono>0990990981</Telefono>
+      <Direccion>El batan calle ulloa y juan gonzales</Direccion>
+      <Cantidad>6</Cantidad>
+      <Detalle>Peluches tipo 1 (Oso peluche polar)</Detalle>
+      <Forma_de_pago>Efectivo</Forma_de_pago>
+      <Total>37.5</Total>
     </registro>
 </factura>
