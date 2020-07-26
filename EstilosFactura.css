@@ -1,0 +1,102 @@
+registro, img,h1 {
+  display: table;
+  border-spacing: 10px;
+  border: black 1px solid;
+  padding:10px; 
+  background-color:whitesmoke;
+  margin: auto;
+}
+
+Codigo_de_la_factura, Ruc_de_la_empresa, Cedula{
+  
+  border: black 1px solid;
+  display: block;
+  text-align: center
+}
+
+Nombre,Apellido,Anio,Mes,Dia,Telefono{
+  border: black 1px solid;
+  display: block;
+  text-align: center
+}
+
+Direccion,Cantidad,Detalle,Forma_de_pago,Total{
+  border: black 1px solid;
+  display: block;
+  text-align: center  
+}
+
+Codigo_de_la_factura:before{
+    content: "Código de la factura : ";
+    font-family: cursive;
+    color: red;
+}
+
+Ruc_de_la_empresa:before{
+    content: "Ruc : ";
+    font-family: cursive;
+    color: red;
+}
+
+Cedula:before{
+    content: "Cédula de Identidad : ";
+    font-family: cursive;
+    color: red;
+}
+
+Nombre:before{
+    content: "Nombre: ";
+    font-family: cursive;
+    color: red;
+}
+
+Apellido:before{
+    content: "Apellido: ";
+    font-family: cursive;
+    color: red;
+}
+Anio:before{
+    content: "Año de compra : ";
+    font-family: cursive;
+    color: red;
+}
+Mes:before{
+    content: "Mes de compra : ";
+    font-family: cursive;
+    color: red;
+}
+Dia:before{
+    content: "Día de compra : ";
+    font-family: cursive;
+    color: red;
+}
+Telefono:before{
+    content: "Teléf celular/convencional : ";
+    font-family: cursive;
+    color: red;
+}
+Direccion:before{
+    content: "Dirección : ";
+    font-family: cursive;
+    color: red;
+}
+Cantidad:before{
+    content: "Cantidad de compra : ";
+    font-family: cursive;
+    color: red;
+}
+Detalle:before{
+    content: "Descripción de la compra : ";
+    font-family: cursive;
+    color: red;
+}
+Forma_de_pago:before{
+    content: "Forma de Pago : ";
+    font-family: cursive;
+    color: red;
+}
+Total:before{
+    content: "Total a Pagar : ";
+    font-family: cursive;
+    color: red;
+}
